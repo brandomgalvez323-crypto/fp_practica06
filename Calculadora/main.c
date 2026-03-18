@@ -53,7 +53,7 @@ int main()
             return 0;
             break;
         }
-        printf("El resultado es %f\n", c);
+        printf("El resultado es %d\n", c);
     }
     else
     {
